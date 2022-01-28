@@ -1,6 +1,3 @@
-### Hey Selam 👋
-
-![alt text](https://github-readme-stats.vercel.app/api?username=ilgazos&theme=merko&show_icons=true)
 
 <h1 align="center">Hi 👋, I'm ILGAZ</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
