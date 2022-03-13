@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilgazos&theme=merko&label=Profile%20views&color=0e75b6&style=flat" alt="ilgazos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilgazos&theme=merko" alt="ilgazos" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
