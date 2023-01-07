@@ -16,8 +16,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilgazos&langs_count=10&theme=merko&show_icons=true&locale=tr" alt="ilgazos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilgazos&theme=merko&show_icons=true&locale=en" alt="ilgazos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilgazos&theme=merko&show_icons=true&locale=tr" alt="ilgazos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilgazos&theme=merko" alt="ilgazos" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilgazos&theme=merko&locale=tr" alt="ilgazos" /></p>
 
 
